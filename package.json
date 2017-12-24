@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "tape": "^4.8.0"
+  },
+  "name": "enum-nck",
+  "description": "generates all possible subsets with size k from given array",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/incessantmeraki/enum-nck.git"
+  },
+  "keywords": [
+    "nck",
+    "combinatorics",
+    "enumeration"
+  ],
+  "author": "Ashwin Kandel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/incessantmeraki/enum-nck/issues"
+  },
+  "homepage": "https://github.com/incessantmeraki/enum-nck#readme"
+}
